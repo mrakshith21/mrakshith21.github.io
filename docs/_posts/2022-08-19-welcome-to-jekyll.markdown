@@ -29,4 +29,4 @@ Check out the latest song [ಗಜಮುಖ ವಂದಿಸುವೆ][ಗಜಮ�
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-[ಗಜಮುಖ ವಂದಿಸುವೆ]: https://mrakshith21.github.io/jekyll/update/2022/08/19/gajamuka-vandisuve.html
+[ಗಜಮುಖ ವಂದಿಸುವೆ]: https://mrakshith21.github.io/jekyll/update/2022/08/19/gajamukha-vandisuve.html
