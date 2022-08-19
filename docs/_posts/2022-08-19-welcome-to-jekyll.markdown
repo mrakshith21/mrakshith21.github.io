@@ -24,6 +24,9 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+Check out the latest song [ಗಜಮುಖ ವಂದಿಸುವೆ][ಗಜಮುಖ ವಂದಿಸುವೆ]
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[ಗಜಮುಖ ವಂದಿಸುವೆ]: https://mrakshith21.github.io/jekyll/update/2022/08/19/gajamuka-vandisuve.html
